@@ -3,10 +3,9 @@
 
 - 📝 I regularly write articles on [lingze.xyz](https://lingze.xyz/)
 
-- 📫 How to reach me **lingze.wl@gmail.com**
+- 📫 How to reach me **lingze.wl@gmail.com** or [twitter](https://twitter.com/wlingze)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wlingze&show_icons=true&locale=en&layout=compact&theme=algolia" alt="wlingze" /></p>
 
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlingze&show_icons=true&locale=en&theme=algolia" alt="wlingze" />
